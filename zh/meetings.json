@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PHP kurzus",
+    "szervezo": "Kiru",
+    "helyszin": "Skype",
+    "resztvevok": [
+      {
+        "username": "brian"
+      },{
+        "username": "peter"
+      }
+    ],
+    "napok": [
+      {
+        "datum": "2023.10.28",
+        "idpontok": [
+          "13:00-14:00", "16:50-17:50"
+        ]
+      },
+      {
+        "datum": "2023.10.29",
+        "idpontok": [
+          "13:00-14:00", "16:50-17:50"
+        ]
+      },
+      {
+        "datum": "2023.10.30",
+        "idpontok": [
+          "13:00-14:00", "16:50-17:50"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Symphony kurzus",
+    "szervezo": "Kiru",
+    "helyszin": "Teams",
+    "resztvevok": [
+      {
+        "username": "brian"
+      },{
+        "username": "peter"
+      }
+    ]
+  },
+  {
+    "name": "JS kozephaladoknak",
+    "szervezo": "Kiru",
+    "helyszin": "Egyetemen",
+    "resztvevok": [
+      {
+        "username": "brian"
+      },{
+        "username": "peter"
+      }
+    ]
+  }
+]

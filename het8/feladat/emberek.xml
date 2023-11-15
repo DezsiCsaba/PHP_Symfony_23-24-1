@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<root>
+    <child>
+        <name>Bela</name>
+        <age>22</age>
+        <salary>2300000</salary>
+    </child>
+    <child>
+        <name>Eva</name>
+        <age>19</age>
+        <salary>560000</salary>
+    </child>
+    <child>
+        <name>Jozsi</name>
+        <age>32</age>
+        <salary>660000</salary>
+    </child>
+</root>

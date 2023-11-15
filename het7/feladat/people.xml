@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<note>
+    <people>
+        <person>
+            <fname>Jani</fname>
+            <lname>McDonald</lname>
+            <profession>teacher</profession>
+            <subject>math</subject>
+        </person>
+        <person>
+            <fname>Peter</fname>
+            <lname>Griffin</lname>
+            <profession>teacher</profession>
+            <subject>P.E</subject>
+        </person>
+        <person>
+            <fname>Chris</fname>
+            <lname>Griffin</lname>
+            <profession>teacher</profession>
+            <subject>programming</subject>
+        </person>
+        <person>
+            <fname>Brian</fname>
+            <lname>Griffin</lname>
+            <profession>teacher</profession>
+            <subject>physics</subject>
+        </person>
+    </people>
+</note>
